@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShortestPath</string>
+    <string name="go">GO</string>
+    <string name="res">RES</string>
+    <string name="b">B</string>
+    <string name="a">A</string>
+    <string name="c">C</string>
+    <string name="map">map</string>
+    <string name="e">E</string>
+    <string name="d">D</string>
+</resources>
